@@ -28,7 +28,7 @@ key: page-about
 ---
 
 
-![Perfil](assets/images/logo/banner.jpg){:.circle}
+![Perfil](assets/images/logo/Perfil.jpg){:.circle}
 
 Sou profissional de cibersegurança com formação em Engenharia de Telecomunicações. Tenho experiência em Operações de Segurança (SOC), com foco em SIEM e Threat Hunting.
 
