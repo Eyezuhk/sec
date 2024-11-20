@@ -22,6 +22,7 @@ titles:
   fr-CH   : *FR
   fr-FR   : *FR
   fr-LU   : *FR
+  pt-BR   : &PT_BR    Sobre
   # @end locale config
 key: page-about
 ---
