@@ -35,7 +35,7 @@ timezone: BR # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones 
 ##############################
 author:
   type      : # "person" (default), "organization"
-  name      : Eyezuhk
+  name      : Eyezuhk - Isaac Fernandes
   url       :
   avatar    : https://avatars.githubusercontent.com/u/101341132?v=4 # path or url of avatar image (square)
   bio       : I dont want to believe. I want to know.
@@ -45,11 +45,11 @@ author:
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
   googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
   telegram  : # "user_name" the last part of your profile url, e.g. https://t.me/user_name
-  medium    : isaacfn # "user_name" the last part of your profile url, e.g. https://medium.com/user_name
+  medium    : @isaacfn # "user_name" the last part of your profile url, e.g. https://medium.com/user_name
   zhihu     : # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
   douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
   linkedin  : isaacfn # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
-  github    : hEyezuhk # "user_name" the last part of your profile url, e.g. https://github.com/user_name
+  github    : Eyezuhk # "user_name" the last part of your profile url, e.g. https://github.com/user_name
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
 
 
