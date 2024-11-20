@@ -28,7 +28,6 @@ key: page-about
 ---
 ![Perfil](assets/images/logo/Perfil.jpg){:.align-right.circle.border.shadow}
 
-Sou profissional de cibersegurança com formação em Engenharia de Telecomunicações. Tenho experiência em Operações de Segurança (SOC), com foco em SIEM e Threat Hunting.
+Sou um amante te tecnologia,me formei em Engenharia de Telecomunicações pelo IFCE. Tenho experiência em Operações de Segurança (SOC), com foco em SIEM e Threat Hunting.
 
-Atualmente, estou aprofundando meus conhecimentos em Análise Forense Digital, Resposta a Incidentes (DFIR) e Análise de Malware.
-
+Atualmente, estou aprofundando meus conhecimentos em DFIR e Análise de Malware.
