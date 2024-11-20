@@ -9,7 +9,9 @@ key: page-about
 aside:
   toc: true
 sidebar:
+  position: right
   nav: sidebar
+ image: assets/images/logo/Perfil.jpg
 ---
 ![Perfil](assets/images/logo/Perfil.jpg){:.circle.border.shadow}
 
