@@ -2,6 +2,7 @@
 layout: article
 titles:
   # @start locale config
+  pt-BR   : &PT_BR    Sobre
   en      : &EN       About
   en-GB   : *EN
   en-US   : *EN
@@ -22,12 +23,11 @@ titles:
   fr-CH   : *FR
   fr-FR   : *FR
   fr-LU   : *FR
-  pt-BR   : &PT_BR    Sobre
   # @end locale config
 key: page-about
 ---
 
-
+{: .align-right}
 ![Perfil](assets/images/logo/Perfil.jpg){:.circle}
 
 Sou profissional de cibersegurança com formação em Engenharia de Telecomunicações. Tenho experiência em Operações de Segurança (SOC), com foco em SIEM e Threat Hunting.
