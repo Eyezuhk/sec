@@ -25,8 +25,9 @@ titles:
   fr-LU   : *FR
   # @end locale config
 key: page-about
+cover: assets/images/logo/Perfil.jpg
 ---
-![Perfil](assets/images/logo/Perfil.jpg){:.align-right.circle.border.shadow}
+![Perfil](assets/images/logo/Perfil.jpg){:.circle.border.shadow}
 
 Sou um amante te tecnologia,me formei em Engenharia de Telecomunicações pelo IFCE. Tenho experiência em Operações de Segurança (SOC), com foco em SIEM e Threat Hunting.
 
