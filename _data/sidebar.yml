@@ -1,0 +1,8 @@
+# _data/sidebar.yml
+entries:
+  - title: Seção 1
+    url: /section1
+  - title: Seção 2
+    url: /section2
+  - title: Seção 3
+    url: /section3
