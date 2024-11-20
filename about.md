@@ -29,6 +29,6 @@ cover: assets/images/logo/Perfil.jpg
 ---
 ![Perfil](assets/images/logo/Perfil.jpg){:.circle.border.shadow}
 
-Sou um amante te tecnologia,me formei em Engenharia de Telecomunicações pelo IFCE. Tenho experiência em Operações de Segurança (SOC), com foco em SIEM e Threat Hunting.
+Sou um amante te tecnologia, me formei em Engenharia de Telecomunicações pelo IFCE. Tenho experiência em Operações de Segurança (SOC), com foco em SIEM e Threat Hunting.
 
 Atualmente, estou aprofundando meus conhecimentos em DFIR e Análise de Malware.
